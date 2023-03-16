@@ -1,4 +1,5 @@
 # spncrstphn-website
-## Basic website for my personal domain 
+---
+## Simple personal website
 
 [![Logo](images/SpncrStphnTransparent.png)](https://spncrstphn.ca)
